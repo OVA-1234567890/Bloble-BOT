@@ -1,0 +1,32 @@
+#help
+
+
+
+-update.
+The file update.exe IS NOT A VIRUS!
+Since many people are afraid to open this file, it does NOT need to be opened.
+Why was it detected as antivirus?: The update is a file of my own making, it was made to update automatically
+So you're not the file host, it's me, This in windows is considered a "bad" thing.
+=========================================================================================================
+
+-DPK-Programmer
+
+This file is for logging in to your bots, but when they are updated you will not be able to use them correctly.
+[that's why there is the update file]When you click on the DPK-Programmer file, it will open a command prompt to create a host on your computer.
+
+
+#ajuda
+
+
+-update.
+O arquivo update.exe Não é um virus!
+O que acontece é : O arquivo faz que os bots são atualizados altomaticamente,mas não é pelo seu host ,é pelo meu Windows considera isso como ameaça , mas não é.
+Ele foi criado por mim mesmo,
+Por isso que o update não é nessario ser aberto! mas você não tera seus bots atualizados!
+==========================================================================================================
+
+-DPK-Programmer
+
+O arquivo DPK-Programmer loga os bot em seu servidor host , com isso é possivel você mesmo colocar seus propios bots!
+mas eles não vão ser atualizados [por isso tem o arquivo update], quando você abre , uma janela do cmd"promot de comando" vai ser inicada indicando que os bots foram logados.
+Depois é so entrar no bloble é se divertir-se!
